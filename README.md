@@ -5,8 +5,6 @@
 
 - 👯 I’m looking to collaborate on **NASA/Space X/Science Related Stuff or anything that will contribute to humankind development i can do for free.**
 
-- 👨‍💻 A showcase of my skills can be (my portfolio): [https://www.clopez.dev/](https://www.clopez.dev/)
-
 - 📝 I regularly write articles on [https://www.linkedin.com/in/clopezhond](https://www.linkedin.com/in/clopezhond)
 
 - 💬 Ask me about **React, Javascript or programming related topics.**
